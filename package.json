@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react-essentials-start",
   "version": "0.0.0",
   "scripts": {
@@ -17,3 +18,27 @@
   "keywords": [],
   "description": ""
 }
+=======
+    "name": "javascript-refresher-start",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel index.html --open",
+        "build": "parcel build index.html"
+    },
+    "dependencies": {
+        "parcel-bundler": "^1.12.5"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.25.2",
+        "typescript": "^5.5.4"
+    },
+    "resolutions": {
+        "@babel/preset-env": "7.13.8"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
+>>>>>>> cb7924093a1dbaa3dba794b024b6821846d507fb
