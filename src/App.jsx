@@ -73,6 +73,7 @@ function App() {
           </menu>
           {tabContent}
         </section>
+
       </main>
     </div>
   );
